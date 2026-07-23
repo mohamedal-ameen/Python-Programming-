@@ -46,4 +46,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
