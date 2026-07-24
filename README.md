@@ -25,6 +25,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ CodeAlpha Python Programming Internship
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0014-longest-common-prefix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -57,4 +59,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
