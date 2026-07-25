@@ -22,6 +22,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
