@@ -50,6 +50,7 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -73,4 +74,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
