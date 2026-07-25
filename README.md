@@ -11,6 +11,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0069-sqrtx) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
@@ -78,4 +79,5 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
