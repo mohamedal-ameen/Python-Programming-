@@ -90,4 +90,20 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
