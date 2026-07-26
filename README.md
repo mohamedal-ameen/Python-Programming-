@@ -14,6 +14,7 @@ CodeAlpha Python Programming Internship
 | [0002-add-two-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
@@ -48,6 +49,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -55,6 +57,7 @@ CodeAlpha Python Programming Internship
 | [0014-longest-common-prefix](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
