@@ -28,6 +28,7 @@ CodeAlpha Python Programming Internship
 | [0005-longest-palindromic-substring](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ CodeAlpha Python Programming Internship
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -58,6 +60,7 @@ CodeAlpha Python Programming Internship
 | [0014-longest-common-prefix](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
