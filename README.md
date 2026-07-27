@@ -131,4 +131,16 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0094-binary-tree-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
