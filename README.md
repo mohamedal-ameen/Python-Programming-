@@ -101,10 +101,12 @@ CodeAlpha Python Programming Internship
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -113,9 +115,14 @@ CodeAlpha Python Programming Internship
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
