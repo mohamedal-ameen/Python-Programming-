@@ -50,6 +50,7 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ CodeAlpha Python Programming Internship
 | [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -106,4 +108,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
