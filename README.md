@@ -16,6 +16,7 @@ CodeAlpha Python Programming Internship
 | [0069-sqrtx](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
@@ -70,6 +71,7 @@ CodeAlpha Python Programming Internship
 | [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,4 +149,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1603-design-parking-system) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
