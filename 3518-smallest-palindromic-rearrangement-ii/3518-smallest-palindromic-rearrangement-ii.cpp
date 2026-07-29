@@ -6,85 +6,93 @@ using namespace std;
 
 class Solution {
 private:
-    // Helper function to calculate nCr capped at CAP
-    long long nCr(int n, int r, long long CAP) {
+    // Computes C(n, r) capped at 'cap' in O(r) time and O(1) space
+    long long nCr(int n, int r, long long cap) {
         if (r < 0 || r > n) return 0;
         if (r == 0 || r == n) return 1;
         if (r > n - r) r = n - r;
         
         long long res = 1;
         for (int i = 1; i <= r; ++i) {
-            __int128 next = (__int128)res * (n - i + 1) / i;
-            if (next >= CAP) return CAP;
-            res = (long long)next;
+            res = (res * (n - i + 1)) / i;
+            if (res >= cap) return cap;
         }
-        return res;
-    }
-
-    // Calculates the number of unique permutations for remaining character frequencies
-    long long countPermutations(const vector<int>& freq, int rem_len, long long CAP) {
-        long long total = 1;
-        int current_len = rem_len;
-        for (int f : freq) {
-            if (f == 0) continue;
-            long long ways = nCr(current_len, f, CAP);
-            __int128 next = (__int128)total * ways;
-            if (next >= CAP) return CAP;
-            total = (long long)next;
-            current_len -= f;
-        }
-        return total;
+        return min(res, cap);
     }
 
 public:
     string smallestPalindrome(string s, int k) {
         int n = s.length();
-        vector<int> count(26, 0);
+        int m = n / 2;
+
+        // 1. Count character frequencies
+        vector<int> full_cnt(26, 0);
         for (char c : s) {
-            count[c - 'a']++;
+            full_cnt[c - 'a']++;
         }
-        
-        vector<int> freq(26, 0);
-        char mid = 0;
+
+        // Half frequencies for building the first half
+        vector<int> cnt(26, 0);
+        char mid_char = 0;
         for (int i = 0; i < 26; ++i) {
-            freq[i] = count[i] / 2;
-            if (count[i] % 2 != 0) {
-                mid = (char)('a' + i);
+            cnt[i] = full_cnt[i] / 2;
+            if (full_cnt[i] % 2 != 0) {
+                mid_char = 'a' + i;
             }
         }
-        
-        int m = n / 2;
-        long long CAP = (long long)k + 1;
-        
-        // If total distinct palindromic permutations is less than k, return ""
-        if (countPermutations(freq, m, CAP) < k) {
+
+        long long cap = k + 1;
+
+        // Helper to compute total permutations of remaining counts
+        auto count_permutations = [&](const vector<int>& current_cnt, int remaining_len) -> long long {
+            long long ways = 1;
+            int rem = remaining_len;
+            for (int i = 0; i < 26; ++i) {
+                if (current_cnt[i] == 0) continue;
+                ways = ways * nCr(rem, current_cnt[i], cap);
+                if (ways >= cap) return cap;
+                rem -= current_cnt[i];
+            }
+            return ways;
+        };
+
+        // Check if total possible permutations < k
+        if (count_permutations(cnt, m) < k) {
             return "";
         }
-        
-        string left = "";
+
+        // 2. Construct the first half greedily
+        string prefix = "";
+        prefix.reserve(m);
+        int rem_len = m;
+
         for (int i = 0; i < m; ++i) {
             for (int c = 0; c < 26; ++c) {
-                if (freq[c] == 0) continue;
-                
-                freq[c]--;
-                long long ways = countPermutations(freq, m - 1 - i, CAP);
-                if (k <= ways) {
-                    left += (char)('a' + c);
-                    break; // Character fixed at current position
+                if (cnt[c] == 0) continue;
+
+                // Try placing character c
+                cnt[c]--;
+                long long num_ways = count_permutations(cnt, rem_len - 1);
+
+                if (num_ways >= k) {
+                    prefix += (char)('a' + c);
+                    rem_len--;
+                    break; // Successfully placed character c at position i
                 } else {
-                    k -= ways;
-                    freq[c]++; // Backtrack and try next character
+                    k -= num_ways;
+                    cnt[c]++; // Backtrack and try next character
                 }
             }
         }
-        
-        string right = left;
-        reverse(right.begin(), right.end());
-        
+
+        // 3. Construct the full palindrome
+        string suffix = prefix;
+        reverse(suffix.begin(), suffix.end());
+
         if (n % 2 != 0) {
-            return left + mid + right;
+            return prefix + mid_char + suffix;
         } else {
-            return left + right;
+            return prefix + suffix;
         }
     }
 };
