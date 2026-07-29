@@ -19,6 +19,7 @@ CodeAlpha Python Programming Internship
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -42,6 +43,7 @@ CodeAlpha Python Programming Internship
 | [0125-valid-palindrome](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ CodeAlpha Python Programming Internship
 | [0141-linked-list-cycle](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +152,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1603-design-parking-system) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -157,4 +161,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1114-print-in-order) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
