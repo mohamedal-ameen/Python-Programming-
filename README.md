@@ -15,6 +15,7 @@ CodeAlpha Python Programming Internship
 | [0002-add-two-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -26,6 +27,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -78,6 +81,7 @@ CodeAlpha Python Programming Internship
 | [0027-remove-element](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0088-merge-sorted-array) |
+| [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -176,4 +180,8 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
