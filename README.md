@@ -19,6 +19,7 @@ CodeAlpha Python Programming Internship
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -57,6 +58,7 @@ CodeAlpha Python Programming Internship
 | [0070-climbing-stairs](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@ CodeAlpha Python Programming Internship
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -188,4 +191,13 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
