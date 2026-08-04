@@ -68,6 +68,7 @@ CodeAlpha Python Programming Internship
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ CodeAlpha Python Programming Internship
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +96,7 @@ CodeAlpha Python Programming Internship
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |
