@@ -139,11 +139,13 @@ CodeAlpha Python Programming Internship
 | [0094-binary-tree-inorder-traversal](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0101-symmetric-tree) |
+| [3310-remove-methods-from-project](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0101-symmetric-tree) |
+| [3310-remove-methods-from-project](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,4 +205,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
