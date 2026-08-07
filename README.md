@@ -23,6 +23,7 @@ CodeAlpha Python Programming Internship
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3536-maximum-product-of-two-digits) |
@@ -51,6 +52,7 @@ CodeAlpha Python Programming Internship
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -193,6 +196,7 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -211,4 +215,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
