@@ -41,6 +41,7 @@ CodeAlpha Python Programming Internship
 | [0088-merge-sorted-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0141-linked-list-cycle) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ CodeAlpha Python Programming Internship
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -62,6 +64,7 @@ CodeAlpha Python Programming Internship
 | [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -196,6 +199,7 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
