@@ -76,6 +76,7 @@ CodeAlpha Python Programming Internship
 | [0141-linked-list-cycle](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -107,6 +108,7 @@ CodeAlpha Python Programming Internship
 | [1406-stone-game-iii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -249,4 +251,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
