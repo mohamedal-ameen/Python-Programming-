@@ -53,6 +53,7 @@ CodeAlpha Python Programming Internship
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
+| [1396-design-underground-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1396-design-underground-system) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -78,6 +79,7 @@ CodeAlpha Python Programming Internship
 | [0141-linked-list-cycle](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1396-design-underground-system) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -187,6 +189,7 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
