@@ -9,6 +9,7 @@ CodeAlpha Python Programming Internship
 | [0002-add-two-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ CodeAlpha Python Programming Internship
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0705-design-hashset) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -103,6 +105,7 @@ CodeAlpha Python Programming Internship
 | [0088-merge-sorted-array](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -183,6 +186,7 @@ CodeAlpha Python Programming Internship
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -265,4 +269,8 @@ CodeAlpha Python Programming Internship
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mohamedal-ameen/Python-Programming-/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
